@@ -10,7 +10,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 <hr>
 
 
-Like My Work?
+Meu trabalho foi útil para você de alguma forma?
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 

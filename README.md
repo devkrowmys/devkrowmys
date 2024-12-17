@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/demo/?font=Poppins&weight=800&pause=1000&color=FCC11A&background=FF000000&center=true&width=435&lines=E+a%C3%AD+pessoal%2C+eu+sou+o+DevKrowmys" alt="Typing SVG" />
 </a>
 
+
 A JavaScript developer from [bangalore][about-bangalore]. I currently manage the engineering team at [OSlash][oslash]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 ### Que bom ver você aqui! 

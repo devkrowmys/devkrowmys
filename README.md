@@ -6,6 +6,8 @@
 A JavaScript developer from [bangalore][about-bangalore]. I currently manage the engineering team at [OSlash][oslash]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 ### Que bom ver você aqui! 
 <hr>
+
+
 <img src="https://i.imgur.com/XlYev2Q.png">
 <p align="center">
   <h3>Languages and Tools:</h3><br>
@@ -20,6 +22,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
   <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </p>
+
 <!-- Profile Trophy -->
 <p align="center">
 	<h3 align="center">🏆 GitHub Profile</h3><br>

@@ -1,6 +1,8 @@
 <img align="left" width="150" height="150" alt="Dani Akash" src="https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1"/>
 
-## E aí pessoal, eu sou o [DevKrowmys]
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 
 A JavaScript developer from [bangalore][about-bangalore]. I currently manage the engineering team at [OSlash][oslash]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 

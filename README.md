@@ -93,6 +93,6 @@ Like My Work?
 
 <div align="center">
 
-### Feito com ❤️ por DevK!
+### Agradeço de ❤️ por ler até aqui!
 
 </div>

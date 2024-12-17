@@ -9,7 +9,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 
 <img src="https://i.imgur.com/R6FlzQQ.png"/>
 <div align="center">
-  <h3>Languages and Tools:</h3>
+  <h3>🛠️ Languages and Tools:</h3>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -24,7 +24,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 
 <!-- Profile Trophy -->
 <div align="center">
-	<h3 align="center">🏆 GitHub Profile</h3><br>
+	<h3>"center">🏆 GitHub Profile</h3><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
@@ -34,7 +34,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+<h3>🎧 Spotify Playing</h3>
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/artist/53XhwfbYqKCa1cC15pYq2q)
 

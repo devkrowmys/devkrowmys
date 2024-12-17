@@ -24,7 +24,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 
 <!-- Profile Trophy -->
 <div align="center">
-	<h3>"center">🏆 GitHub Profile</h3><br>
+	<h3>🏆 GitHub Profile</h3><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>

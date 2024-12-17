@@ -6,7 +6,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 
 ### Que bom ver você aqui! 
 <hr>
-![](https://imgur.com/3144a8d3-c59e-4956-b50a-14dd6ff9141e)
+<img src="https://imgur.com/3144a8d3-c59e-4956-b50a-14dd6ff9141e">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀

@@ -13,7 +13,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 Meu trabalho foi útil para você de alguma forma?
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
+<hr>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:

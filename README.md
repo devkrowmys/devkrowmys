@@ -1,6 +1,6 @@
 <img align="left" width="150" height="150" alt="DK" src="https://i.imgur.com/xjJMlen.png"/>
 
-## E aí pessoal, aqui é o [DevKrowmys]
+## E aí pessoal, aqui eu sou o [DevKrowmys]
 
 
 

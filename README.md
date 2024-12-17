@@ -23,7 +23,11 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 
 
 <hr>
+### Spotify Playing 🎧
 
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+
+---
 
 Meu trabalho foi útil para você de alguma forma?
 

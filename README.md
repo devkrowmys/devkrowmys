@@ -1,5 +1,4 @@
-<img src="https://i.imgur.com/XlYev2Q.png">
-<hr>
+
 <img align="left" width="150" height="150" alt="DK" src="https://i.imgur.com/xjJMlen.png"/>
 
 <h3> E aí pessoal, eu sou o [DevKrowmys] </h3>
@@ -7,6 +6,8 @@
 A JavaScript developer from [bangalore][about-bangalore]. I currently manage the engineering team at [OSlash][oslash]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 ### Que bom ver você aqui! 
+<img src="https://i.imgur.com/XlYev2Q.png">
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 

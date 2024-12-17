@@ -1,10 +1,35 @@
 <h1 align="center">Hey everyone, it's DevKrowmys!</h1>
+<h3 align="center">eu sou lindo</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkrowmys&label=Profile%20views&color=0e75b6&style=flat" alt="devkrowmys" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkrowmys" alt="devkrowmys" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/dsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dsa" height="30" width="40" /></a>
+<a href="https://dev.to/sad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sad" height="30" width="40" /></a>
+<a href="https://twitter.com/asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sadada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sadada" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sdsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sdsad" height="30" width="40" /></a>
+<a href="https://kaggle.com/ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ad" height="30" width="40" /></a>
+<a href="https://fb.com/asdsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asdsa" height="30" width="40" /></a>
+<a href="https://instagram.com/ads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ads" height="30" width="40" /></a>
+<a href="https://dribbble.com/sadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sadas" height="30" width="40" /></a>
+<a href="https://www.behance.net/sad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sad" height="30" width="40" /></a>
+<a href="https://hashnode.com/sdsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sdsd" height="30" width="40" /></a>
+<a href="https://medium.com/sad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sadsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadsad" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/asdsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asdsad" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sadsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sadsa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/asdsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asdsa" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="asd" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adsadsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adsadsa" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/dasdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="dasdas" height="30" width="40" /></a>
+<a href="https://discord.gg/asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asd" height="30" width="40" /></a>
+<a href="/asds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="asds" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkrowmys&show_icons=true&locale=en" alt="devkrowmys" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkrowmys&" alt="devkrowmys" /></p>
-

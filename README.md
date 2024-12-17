@@ -20,7 +20,11 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
   <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </p>
-
+<!-- Profile Trophy -->
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 
 <hr>
 

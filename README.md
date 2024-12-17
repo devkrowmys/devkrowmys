@@ -1,7 +1,6 @@
 <img align="left" width="150" height="150" alt="DK" src="https://i.imgur.com/xjJMlen.png"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&color=FCC11A&background=FF000000&center=true&vCenter=true&width=435&lines=E+a%C3%AD+pessoal%2C+eu+sou+o+DevKrowmys" alt="Typing SVG" /></a>
-
+## I'm [Dani Akash][homepage]
 
 
 

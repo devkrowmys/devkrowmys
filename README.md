@@ -9,6 +9,8 @@
 
 
 
+
+
 A JavaScript developer from [bangalore][about-bangalore]. I currently manage the engineering team at [OSlash][oslash]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 ### Que bom ver você aqui! 

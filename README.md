@@ -8,7 +8,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 <hr>
 <img src="https://i.imgur.com/XlYev2Q.png">
 <p align="center">
-  <h2>Languages and Tools:</h2><br>
+  <h3 align="center>">Languages and Tools:</h3><br>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -22,7 +22,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 </p>
 <!-- Profile Trophy -->
 <p align="center">
-	<h2>🏆 GitHub Profile</h2><br>
+	<h3 align="center">🏆 GitHub Profile</h3><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>

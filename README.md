@@ -1,3 +1,4 @@
+<!-- Introdução com imagem e descrição -->
 <img align="left" width="150" height="150" alt="DK" src="https://i.imgur.com/xjJMlen.png"/>
 
 <h3>
@@ -6,14 +7,17 @@
 </h3>
 
 <p>
-  Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Java, C#, entre outros, se quiser trocar uma ideia chama no discord ✌️
+  Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Java, C#, entre outros. Se quiser trocar uma ideia, chama no Discord ✌️
 </p>
 
+<!-- Saudação e convite -->
 <h3>Que bom ver você aqui!</h3>
 <hr>
 
+<!-- Imagem decorativa -->
 <img src="https://i.imgur.com/R6FlzQQ.png"/>
 
+<!-- Seção de ferramentas e linguagens com alinhamento central -->
 <div align="center">
   <h3>🛠️ Languages and Tools:</h3>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
@@ -28,8 +32,7 @@
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </div>
 
-
-<!-- Profile Trophy -->
+<!-- Seção do perfil de troféus do GitHub -->
 <div align="center">
   <h3>🏆 GitHub Profile</h3><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -39,14 +42,17 @@
 
 <hr>
 
+<!-- GIF à direita -->
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 <h3>🎧 Spotify Playing</h3>
 
+<!-- Widget do Spotify -->
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/artist/53XhwfbYqKCa1cC15pYq2q)
 
 ---
 
+<!-- Seção de doações -->
 <div align="center">
   <h3>🤝 Seu apoio é fundamental!</h3>
   <p>Se meu trabalho te ajudou, considere fazer uma doação! 💖</p>
@@ -56,8 +62,10 @@
 
 <hr>
 
+<!-- GIF de programador -->
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/devkrowmys/master/gifs/coder.gif"/>
 
+<!-- Seção de projetos e estatísticas do GitHub -->
 ### Projects and Dev Stuffs:
 
 <details>
@@ -70,6 +78,7 @@
 
 #
 
+<!-- Agradecimento final -->
 <div align="center">
   <h3>Agradeço de ❤️ por ler até aqui!</h3>
 </div>

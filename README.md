@@ -17,27 +17,14 @@
   <summary><b>:gear: &nbsp;Sobre Mim</b></summary>
   <br/>
   <p align="center">
-    <b>👋 Olá, eu sou [Seu Nome]</b><br/><br/>
-    Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções criativas! :nerd_face:<br/><br/>
+      👋 Sobre mim <br/><br/>
+    💻 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo!<br/><br/>
 
-    🌱 **Atualmente aprendendo:** React, TypeScript, Docker, Inteligência Artificial.<br/>
-    🖥️ **Tecnologias que utilizo:** HTML, CSS, JavaScript, Node.js, React, Python.<br/>
-    💬 **Meus interesses:** Desenvolvimento Web, automação, IA, design de interface e experiência de usuário (UI/UX).<br/>
-    🚀 **Projetos atuais:** Desenvolvendo uma aplicação full-stack com React e Node.js, estudando IA e criação de bots inteligentes!<br/><br/>
-
-    <b>✨ Vamos conectar!</b> 📱<br/>
-    💻 **Onde me encontrar:**<br/>
-    <a href="https://github.com/[SeuNome]" target="_blank">GitHub</a> | 
-    <a href="https://www.linkedin.com/in/[SeuNome]" target="_blank">LinkedIn</a> | 
-    <a href="https://twitter.com/[SeuNome]" target="_blank">Twitter</a> | 
-    <a href="mailto:[SeuEmail]">Email</a><br/><br/>
-
-    <b>🎯 Objetivos de carreira:</b> Tornar-me um especialista em IA e trabalhar em projetos inovadores que façam a diferença no mundo.<br/><br/>
-
-    <b>💡 Curiosidade:</b> Sempre gosto de aprender novas tecnologias e fazer parte de comunidades de desenvolvedores. Sou entusiasta de código aberto e gosto de contribuir para projetos colaborativos. <br/><br/>
-
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Emoji" width="25" height="25" /><br/><br/>
-  </p>
+    🌱 Atualmente aprendendo: React, TypeScript, Docker, Inteligência Artificial.<br/>
+    🖥️ Tecnologias que utilizo: HTML, CSS, JavaScript, Node.js, React, Python.<br/>
+    💬 Meus interesses: Desenvolvimento Web, automação, IA, design de interface e UX.<br/>
+    🚀 Projetos atuais: Desenvolvendo uma aplicação full-stack com React e Node.js, estudando IA e criação de bots inteligentes!<br/><br/>
+ </p>
 </details>
 
 

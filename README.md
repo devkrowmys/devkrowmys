@@ -47,7 +47,12 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devkrowmys&theme=radical" alt="Repos Per Language" />
 <!-- Gráfico de Linguagens com Mais Commits -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devkrowmys&theme=radical" alt="Most Commit Language" />
+</div>
 
+<!--   Stats -->
+<div align="center">
+<h3>📊 GitHub Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&theme=radical&show_icons=true&count_private=true" alt="Darshan R github stats" /> 
 </div>
 <hr>
 

@@ -42,7 +42,7 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 
 <div align="center">
   <h3>🤝 Seu apoio é fundamental!</strong></h3>
-  <h4>Se meu trabalho te ajudou, considere fazer uma doação! 💖</h4><br>
+  <p>Se meu trabalho te ajudou, considere fazer uma doação! 💖</p><br>
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Ajude com um donate" height="60px" width="217px" ></a>
 </div>

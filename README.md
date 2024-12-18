@@ -40,6 +40,13 @@
   </a>
 </div>
 
+<!-- Seção Stats -->
+<div align="center">
+<h3>📊 GitHub Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&theme=radical&show_icons=true&count_private=true" alt="Darshan R github stats" /> 
+</div>
+<hr>
+
 <!--   Seção top linguagens  -->
 <div align="center">
 <h3>👨‍💻 Top Languages Used:</h3> 
@@ -49,12 +56,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devkrowmys&theme=radical" alt="Most Commit Language" />
 </div>
 
-<!--   Stats -->
-<div align="center">
-<h3>📊 GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&theme=radical&show_icons=true&count_private=true" alt="Darshan R github stats" /> 
-</div>
-<hr>
 
 <!-- GIF à direita -->
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>

@@ -118,30 +118,26 @@
 
 <h3 align="center">📈 GitHub Activity Graph:</h3>
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&border_radius=25&order=1&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" height="100%" alt="stats graph" />
-      <br><br>
-      <img src="https://streak-stats.demolab.com?user=devkrowmys&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=25&order=3" height="100%" alt="streak graph" />
-    </td>
-    <td rowspan="2" align="center">
-      <!-- Modo claro -->
-      <a href="https://github.com/devkrowmys#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&border_radius=25&locale=pt-br#gh-light-mode-only" alt="Linguagens Mais Usadas - Modo Claro" height="100%" />
-      </a>
-      <!-- Modo escuro -->
-      <a href="https://github.com/devkrowmys#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-dark-mode-only" alt="Linguagens Mais Usadas - Modo Escuro" height="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>💬 Citação Aleatória de Desenvolvedor</h4>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&lang=pt" alt="Citação Aleatória" />
-    </td>
-  </tr>
-</table>
+<tr>
+  <td align="center">  <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&border_radius=25&order=1&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" height="100%" alt="stats graph" /> <br>
+ <br>
+ <br>
+    <img src="https://streak-stats.demolab.com?user=devkrowmys&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=25&order=3" height="100%" alt="streak graph"  />
+<br></td>
+  <td rowspan="2" align="center">
+  <!-- Modo claro -->
+  <a href="https://github.com/devkrowmys#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&border_radius=25&locale=pt-br#gh-light-mode-only" 
+    alt="Linguagens Mais Usadas - Modo Claro" height="100%"/>
+  </a>
+
+  <!-- Modo escuro -->
+  <a href="https://github.com/devkrowmys#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-dark-mode-only" 
+    alt="Linguagens Mais Usadas - Modo Escuro" height="100%"/>
+  </a>
+
+</td>
 
 
 

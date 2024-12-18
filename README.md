@@ -43,7 +43,8 @@
 <h3 align="center">📈 GitHub Activity Graph:</h3>
 <table>
     <tr>
-        <td align="center">  <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" height="150" alt="stats graph" /> <br>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" height="150" alt="stats graph" /> <br>
+ <br>
 <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
         <td rowspan="2" align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/devkrowmys#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>

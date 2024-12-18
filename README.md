@@ -57,7 +57,7 @@
 
   <!-- Modo escuro -->
   <a href="https://github.com/devkrowmys#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-dark-mode-only" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-dark-mode-only" 
     alt="Linguagens Mais Usadas - Modo Escuro" height="100%"/>
   </a>
 </td>

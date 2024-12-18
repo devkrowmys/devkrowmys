@@ -14,7 +14,7 @@
 </p>
 
 <h3>Que bom ver você aqui!</h3>
-      <div align="right"> <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord"> </div>
+      <div align="right"> <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord" height="100%> </div>
   
 
 

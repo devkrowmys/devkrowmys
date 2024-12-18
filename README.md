@@ -20,7 +20,8 @@
       <h3>Que bom ver você aqui!</h3>
     </td>
     <td style="border: none;">
-      <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord">
+     <a href="https://discord.gg/HtzxZktBsq" target="_blank">
+ <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord"></a>
     </td>
   </tr>
 </table>

@@ -13,8 +13,18 @@
   Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Java, C#, entre outros. Se quiser trocar uma ideia, chama no Discord ✌️
 </p>
 
-<h3>Que bom ver você aqui!</h3>
-      <div align="right"> <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord"> </div>
+<!-- Saudação e convite -->
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <h3>Que bom ver você aqui!</h3>
+    </td>
+    <td style="border: none;">
+      <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord">
+    </td>
+  </tr>
+</table>
+
   
 
 

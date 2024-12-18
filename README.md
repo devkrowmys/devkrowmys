@@ -43,7 +43,7 @@
 <!-- Seção Stats -->
 <div align="center">
 <h3>📊 GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&theme=radical&show_icons=true&count_private=true" alt="Darshan R github stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&theme=radical&show_icons=true&count_private=true" alt="deka stats" /> 
 </div>
 <hr>
 

@@ -16,12 +16,26 @@
 <details>
   <summary><b>:gear: &nbsp;Sobre Mim</b></summary>
   <br/>
+ <b>👨‍💻 Tecnologias que eu sei:</b><br/><br/>
+    <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> | <code>Python</code> | <code>C++</code> | <code>Arduino</code><br/><br/>
 <p>
-    🌱 Atualmente aprendendo: React, TypeScript, Docker, Inteligência Artificial.<br/>
-    🖥️ Tecnologias que utilizo: HTML, CSS, JavaScript, Node.js, React, Python.<br/>
-    💬 Meus interesses: Desenvolvimento Web, automação, IA, design de interface e UX.<br/>
-    🚀 Projetos atuais: Desenvolvendo uma aplicação full-stack com React e Node.js, estudando IA e criação de bots inteligentes!<br/><br/>
- </p>
+    <b>📚 Tecnologias que estou estudando:</b><br/><br/>
+    <code>Laravel</code> | <code>TypeScript</code> | <code>PHP</code> | <code>Lua</code> | <code>C#</code> | <code>Flutter</code><br/><br/>
+<p>
+    <b>🖥️ Ferramentas que utilizo:</b><br/><br/>
+    <code>Git</code> | <code>GitHub</code> | <code>Android Studio</code> | <code>Visual Studio Code</code> | <code>eclipse</code> | <code>Atom</code> | <code>Sublime Text</code> | <code>Jira</code><br/><br/>
+<p>
+    <b>🌐 Bancos de Dados:</b><br/><br/>
+    <code>MySQL</code> | <code>mongoDB</code> | <code>SQLite</code> | <code>Firebase</code><br/><br/>
+<p>
+    <b>🎮 Tecnologias de Desenvolvimento de Jogos:</b><br/><br/>
+    <code>Unity</code> | <code>Unreal Engine</code><br/><br/>
+<p>
+    <b>🔒 Segurança e Sistemas Operacionais:</b><br/><br/>
+    <code>Kali Linux</code><br/><br/>
+<p>
+    <b>💡 Objetivos e interesses:</b><br/><br/>
+    Explorando e aprendendo sobre novas tecnologias, e sempre em busca de melhorar minhas habilidades em desenvolvimento web, jogos e IA. 📈<br/><br/></p>
 </details>
 
 

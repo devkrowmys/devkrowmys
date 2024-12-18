@@ -1,7 +1,7 @@
 
 <img align="left" width="150" height="150" alt="DK" src="https://i.imgur.com/xjJMlen.png"/>
 
-<h3> E aí maninho, eu sou o [DevKrowmys] <img width="18px" height="18" src="https://i.imgur.com/DloFx9W.gif"/> </h3>
+<h3> E aí maninho, eu sou o [DevKrowmys](https://github.com/devkrowmys/) <img width="18px" height="18" src="https://i.imgur.com/DloFx9W.gif"/> </h3>
 
 Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Java, C#, entre outros, se quiser trocar uma ideia chama no discord ✌️
 ### Que bom ver você aqui! 

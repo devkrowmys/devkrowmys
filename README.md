@@ -14,10 +14,17 @@
 </p>
 
 <!-- Saudação e convite -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <h3 style="margin-right: 20px;">Que bom ver você aqui!</h3>
-  <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord" style="max-width: 300px;">
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Que bom ver você aqui!</h3>
+    </td>
+    <td>
+      <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord">
+    </td>
+  </tr>
+</table>
+
 
 
 <hr>

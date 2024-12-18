@@ -48,7 +48,20 @@
  <br>
     <img src="https://streak-stats.demolab.com?user=devkrowmys&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=25&order=3" height="150" alt="streak graph"  />
 <br></td>
-        <td rowspan="2" align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/devkrowmys#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+       <td rowspan="2" align="center">
+  <!-- Modo claro -->
+  <a href="https://github.com/devkrowmys#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-light-mode-only" 
+    alt="Linguagens Mais Usadas - Modo Claro"/>
+  </a>
+
+  <!-- Modo escuro -->
+  <a href="https://github.com/devkrowmys#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-dark-mode-only" 
+    alt="Linguagens Mais Usadas - Modo Escuro"/>
+  </a>
+</td>
+
     </tr>
 </table>
 

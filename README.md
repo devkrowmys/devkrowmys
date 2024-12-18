@@ -42,9 +42,12 @@
 
 <!--   Seção top linguagens  -->
 <div align="center">
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
+<h3>👨‍💻 Top Languages Used:</h3> 
+<!-- Gráfico de Repositórios por Linguagem -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark" alt="Repos Per Language" />
+<!-- Gráfico de Linguagens com Mais Commits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark" alt="Most Commit Language" />
+
 </div>
 <hr>
 

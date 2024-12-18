@@ -16,10 +16,7 @@
 <details>
   <summary><b>:gear: &nbsp;Sobre Mim</b></summary>
   <br/>
-  <p align="center">
-      👋 Sobre mim <br/><br/>
-    💻 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo!<br/><br/>
-
+<p>
     🌱 Atualmente aprendendo: React, TypeScript, Docker, Inteligência Artificial.<br/>
     🖥️ Tecnologias que utilizo: HTML, CSS, JavaScript, Node.js, React, Python.<br/>
     💬 Meus interesses: Desenvolvimento Web, automação, IA, design de interface e UX.<br/>

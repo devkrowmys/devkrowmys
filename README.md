@@ -136,6 +136,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-dark-mode-only" 
     alt="Linguagens Mais Usadas - Modo Escuro" height="100%"/>
   </a>
+  ### ✍️ Citação Aleatória de Desenvolvedor
+![Citação Aleatória](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&lang=pt)
+
 </td>
 
 

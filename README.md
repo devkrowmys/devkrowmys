@@ -56,6 +56,13 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devkrowmys&theme=radical" alt="Most Commit Language" />
 </div>
 
+<!--  Seção GitHub stats graph -->
+<div align="center">
+<h3>📈 GitHub Activity Graph:</h3>
+<a href="https://github.com/devkrowmys">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&theme=radical" alt="Github Activity Graph" />
+</a>
+</div>
 
 <!-- GIF à direita -->
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>

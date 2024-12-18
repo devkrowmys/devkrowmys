@@ -14,16 +14,17 @@
 </p>
 
 <!-- Saudação e convite -->
-<table style="border: none;">
+<table>
   <tr>
-    <td style="border: none; padding-right: 20px;">
+    <td style="padding-right: 20px;">
       <h3>Que bom ver você aqui!</h3>
     </td>
-    <td style="border: none;">
+    <td>
       <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord">
     </td>
   </tr>
 </table>
+
 
 
 

@@ -40,7 +40,7 @@
   </a>
 </div>
 
-## 📈 GitHub Activity Graph:
+<h3 align="center">📈 GitHub Activity Graph:</h3>
 
 <table>
     <tr>

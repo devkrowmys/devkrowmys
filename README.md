@@ -46,7 +46,7 @@
         <td align="center">  <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" height="100%" alt="stats graph" /> <br>
  <br>
  <br>
-    <img src="https://streak-stats.demolab.com?user=devkrowmys&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=25&order=3" height="100%" alt="streak graph"/><br></td>
+    <td align="center"><img src="https://streak-stats.demolab.com?user=devkrowmys&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=25&order=3" height="100%" alt="streak graph"/><br></td>
         <td rowspan="2" align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/devkrowmys#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>

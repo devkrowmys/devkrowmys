@@ -44,10 +44,10 @@ Sou um desenvolvedor fullstack com experiência em diversas linguagens de progra
   <h3>🤝 Seu apoio é fundamental!</strong></h3>
   <p>Se meu trabalho te ajudou, considere fazer uma doação! 💖</p><br>
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Ajude com um donate" height="60px" width="217px" ></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/kPUpaL4.png" alt="Ajude com um donate" height="60px" width="217px" ></a>
 </div>
 <hr>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/devkrowmys/master/gifs/coder.gif" />
 
 ### Projects and Dev Stuffs:
 
@@ -63,7 +63,7 @@ Sou um desenvolvedor fullstack com experiência em diversas linguagens de progra
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devkrowmys&hide_border=true" />
 </details>
 
 

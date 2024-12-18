@@ -14,14 +14,17 @@
 </p>
 
 <!-- Saudação e convite -->
-<div style="display: table; width: 100%; table-layout: fixed;">
-  <div style="display: table-cell; vertical-align: middle; width: 50%;">
-    <h3>Que bom ver você aqui!</h3>
-  </div>
-  <div style="display: table-cell; vertical-align: middle; width: 50%; text-align: right;">
-    <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord" style="max-width: 300px;">
-  </div>
-</div>
+<table style="border: none;">
+  <tr>
+    <td style="border: none; padding-right: 20px;">
+      <h3>Que bom ver você aqui!</h3>
+    </td>
+    <td style="border: none;">
+      <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord">
+    </td>
+  </tr>
+</table>
+
 
 
 

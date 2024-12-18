@@ -11,7 +11,24 @@
 
 <p>
   Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Flutter, C++, entre outros. Se quiser trocar uma ideia, chama no Discord <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" />
-</p>
+</p><details>
+  <summary><b>:gear: &nbsp;Sobre Mim</b></summary>
+  <br/>
+  <p align="center">
+    <b>👋 Olá! Eu sou o Bruno Tacca</b><br/>
+    Desenvolvedor apaixonado por tecnologia e aprendizado contínuo.<br/><br/>
+    :bulb: **Interesses:** Desenvolvimento Web, JavaScript, Python, Inteligência Artificial.<br/>
+    :man_technologist: **Atualmente aprendendo:** React, TypeScript, Docker.<br/>
+    :computer: **Tecnologias que uso:** HTML, CSS, JavaScript, Node.js, React, Python.<br/>
+    :earth_americas: **Onde me encontrar:** GitHub, LinkedIn, Twitter.<br/><br/>
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" /><br/><br/>
+    <p align="center">
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+  </p>
+</details>
+
 
 <!-- Saudação e convite -->
 <div align="center"

@@ -3,7 +3,7 @@
 
 <h3> E aí pessoal, eu sou o [DevKrowmys] <img width="18px" height="18" src="https://i.imgur.com/DloFx9W.gif"/> </h3>
 
-A JavaScript developer from [bangalore][about-bangalore]. I currently manage the engineering team at [OSlash][oslash]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Java, C#, entre outros, se quiser trocar uma ideia chama no discord ✌️
 ### Que bom ver você aqui! 
 <hr>
 

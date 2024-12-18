@@ -10,7 +10,7 @@
 </h3>
 
 <p>
-  Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Java, C#, entre outros. Se quiser trocar uma ideia, chama no Discord <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Call%20Me%20Hand.webp" alt="Call Me Hand" width="25" height="25" />
+  Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Flutter, C++, entre outros. Se quiser trocar uma ideia, chama no Discord <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" />
 </p>
 
 <!-- Saudação e convite -->

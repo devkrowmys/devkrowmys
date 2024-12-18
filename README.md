@@ -36,7 +36,7 @@
 <div align="center">
   <h3>🏆 GitHub Profile</h3><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=radical&no-frame=true&no-bg=true"/>
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=radical&no-frame=true&no-bg=true&locale=pt-br"/>
   </a>
 </div>
 
@@ -51,7 +51,7 @@
   <td rowspan="2" align="center">
   <!-- Modo claro -->
   <a href="https://github.com/devkrowmys#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-light-mode-only" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&border_radius=25&locale=pt-br#gh-light-mode-only" 
     alt="Linguagens Mais Usadas - Modo Claro" height="100%"/>
   </a>
 

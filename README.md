@@ -60,7 +60,7 @@
 <div align="center">
 <h3>📈 GitHub Activity Graph:</h3>
 <a href="https://github.com/devkrowmys">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&theme=dark" alt="Github Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&theme=github" alt="Github Activity Graph" />
 </a>
 </div>
 

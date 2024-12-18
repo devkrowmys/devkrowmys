@@ -50,9 +50,6 @@
     <tr>
         <td align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devkrowmys&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devkrowmys&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://raw.githubusercontent.com/devkrowmys/devkrowmys/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/devkrowmys#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/devkrowmys/devkrowmys/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
 </table>
 
 <hr>

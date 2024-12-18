@@ -40,25 +40,20 @@
   </a>
 </div>
 
-<!-- Seção Stats -->
-<div align="center">
-<h3>📊 GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&theme=radical&show_icons=true&count_private=true" alt="deka stats" /> 
-</div>
+## 📈 GitHub Activity Graph:
 
-<!--   Seção top linguagens  -->
-<div align="center">
-<h3>👨‍💻 Top Languages Used:</h3> 
-<!-- Gráfico de Repositórios por Linguagem -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devkrowmys&theme=radical" alt="Repos Per Language" />
-<!-- Gráfico de Linguagens com Mais Commits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devkrowmys&theme=radical" alt="Most Commit Language" />
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/devkrowmys#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/devkrowmys#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devkrowmys&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devkrowmys&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/devkrowmys#gh-light-mode-only"><img src="https://raw.githubusercontent.com/devkrowmys/devkrowmys/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/devkrowmys#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/devkrowmys/devkrowmys/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
 
 <hr>
 <!--  Seção GitHub stats graph -->

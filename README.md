@@ -14,12 +14,13 @@
 </p>
 
 <!-- Saudação e convite -->
-<table style="border: none;">
+<div align="center"
+><table>
   <tr>
-    <td style="border: none;">
+    <td>
 <h3>Que bom ver você aqui! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" style="vertical-align: middle; width: 1em; height: 1em;" /></h3>
     </td>
-    <td style="border: none;">
+    <td>
      <a href="https://discord.gg/HtzxZktBsq" target="_blank">
  <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord"></a>
     </td>

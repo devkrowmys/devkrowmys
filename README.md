@@ -49,7 +49,7 @@
     </tr>
   </table></div>
 
-  <div align=""right><h3>💻 Programming Languages</h3>
+  <div align="right"><h3>💻 Programming Languages</h3>
   <table>
     <tr>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>

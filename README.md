@@ -42,7 +42,7 @@
 
 <h3 align="center">📈 GitHub Activity Graph:</h3>
 <table>
-    <tr>
+    Se liga na minhas estatisticas
         <td align="center">  <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" height="100%" alt="stats graph" /> <br>
  <br>
  <br>

@@ -38,7 +38,7 @@
 <img src="https://i.imgur.com/R6FlzQQ.png"/>
 
 <!-- Seção de Ferramentas e Linguagens -->
-<div>
+<div align="left">
   <h3>🛠️ Development Tools</h3>
   <table>
     <tr>
@@ -47,9 +47,9 @@
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
     </tr>
-  </table>
+  </table></div>
 
-  <h3>💻 Programming Languages</h3>
+  <div align=""right><h3>💻 Programming Languages</h3>
   <table>
     <tr>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
@@ -57,7 +57,7 @@
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
     </tr>
-  </table>
+  </table></div>
 
   <h3>⚙️ Frameworks & Libraries</h3>
   <table>

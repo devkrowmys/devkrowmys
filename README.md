@@ -40,6 +40,11 @@
   </a>
 </div>
 
+<!--   Seção top linguagens  -->
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
+
 <hr>
 
 <!-- GIF à direita -->

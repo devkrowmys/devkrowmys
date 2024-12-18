@@ -46,7 +46,7 @@
   <td align="center">  <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" height="100%" alt="stats graph" /> <br>
  <br>
  <br>
-    <img src="https://streak-stats.demolab.com?user=devkrowmys&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=25&order=3" height="150" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=devkrowmys&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=25&order=3" height="100%" alt="streak graph"  />
 <br></td>
   <td rowspan="2" align="center">
   <!-- Modo claro -->

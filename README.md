@@ -17,7 +17,7 @@
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      <h3>Que bom ver você aqui!</h3>
+      <h3>Que bom ver você aqui! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /></h3>
     </td>
     <td style="border: none;">
      <a href="https://discord.gg/HtzxZktBsq" target="_blank">

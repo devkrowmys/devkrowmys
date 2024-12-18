@@ -75,8 +75,7 @@
 <h3>🎧 Spotify Playing</h3>
 
 <!-- Widget do Spotify -->
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/artist/53XhwfbYqKCa1cC15pYq2q)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314r7vnb3gedova5j4w2yloveofy)
 ---
 
 <!-- Seção de doações -->

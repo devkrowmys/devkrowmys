@@ -59,14 +59,6 @@ Sou um desenvolvedor fullstack com experiência em diversas linguagens de progra
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devkrowmys&hide_border=true" />
-</details>
-
-
 #
 
 <div align="center">

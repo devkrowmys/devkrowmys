@@ -13,6 +13,7 @@
 <hr>
 
 <img src="https://i.imgur.com/R6FlzQQ.png"/>
+
 <div align="center">
   <h3>🛠️ Languages and Tools:</h3>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
@@ -48,7 +49,7 @@
 
 <div align="center">
   <h3>🤝 Seu apoio é fundamental!</h3>
-  <p>Se meu trabalho te ajudou, considere fazer uma doação! 💖</p><br>
+  <p>Se meu trabalho te ajudou, considere fazer uma doação! 💖</p>
 
   <a href="" target="_blank"><img src="https://i.imgur.com/kPUpaL4.png" alt="Ajude com um donate" height="60px" width="217px"></a>
 </div>

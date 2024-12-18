@@ -36,7 +36,7 @@
 <div align="center">
   <h3>🏆 GitHub Profile</h3><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=radical&no-frame=true&no-bg=true"/>
   </a>
 </div>
 
@@ -46,7 +46,7 @@
 <!-- Gráfico de Repositórios por Linguagem -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devkrowmys&theme=radical" alt="Repos Per Language" />
 <!-- Gráfico de Linguagens com Mais Commits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devkrowmys&theme=dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devkrowmys&theme=radical" alt="Most Commit Language" />
 
 </div>
 <hr>

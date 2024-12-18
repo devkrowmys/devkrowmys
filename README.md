@@ -45,7 +45,6 @@
 <h3>📊 GitHub Stats:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&theme=radical&show_icons=true&count_private=true" alt="deka stats" /> 
 </div>
-<hr>
 
 <!--   Seção top linguagens  -->
 <div align="center">
@@ -63,7 +62,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&theme=github" alt="Github Activity Graph" />
 </a>
 </div>
-
+<hr>
 <!-- GIF à direita -->
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 

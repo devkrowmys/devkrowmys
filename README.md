@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/DOZQXi3.png"/>
+
+
 <!-- Introdução com imagem e descrição -->
 <img align="left" width="150" height="150" alt="DK" src="https://i.imgur.com/xjJMlen.png"/>
 

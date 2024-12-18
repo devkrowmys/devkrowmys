@@ -36,7 +36,7 @@
 <div align="center">
   <h3>🏆 GitHub Profile</h3><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=radical&no-frame=true&no-bg=true&locale=pt-br"/>
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=radical&no-frame=true&no-bg=true"/>
   </a>
 </div>
 
@@ -93,20 +93,7 @@
   <a href="" target="_blank"><img src="https://i.imgur.com/kPUpaL4.png" alt="Ajude com um donate" height="60px" width="217px"></a>
 </div>
 
-<hr>
 
-<!-- GIF de programador -->
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/devkrowmys/master/gifs/coder.gif"/>
-
-<!-- Seção de projetos e estatísticas do GitHub -->
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
- a
-</details>
 
 #
 

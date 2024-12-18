@@ -61,7 +61,7 @@
 <div align="center">
 <h3>📈 GitHub Activity Graph:</h3>
 <a href="https://github.com/devkrowmys">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&theme=github" alt="Github Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&radius=20&theme=redical&area=true&order=5&bg_color=141321&color=FE428E&hide_title=false&hide_border=true&custom_title=Meu%20Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20(DevKrowmys)&point=FE428E" height="285" alt="activity-graph graph"  />
 </a>
 </div>  
 

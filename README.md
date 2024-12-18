@@ -40,12 +40,12 @@ A JavaScript developer from [bangalore][about-bangalore]. I currently manage the
 
 ---
 
-<p align="center">
+<div align="center">
   <strong>🤝 Seu apoio é fundamental!</strong><br>
   Se meu trabalho te ajudou, considere fazer uma doação! 💖
-</p>
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Ajude com um donate" height="60px" width="217px" ></a>
+</div>
 <hr>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 

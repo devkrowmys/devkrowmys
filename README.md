@@ -49,7 +49,7 @@
     </td>
     <td>
      <a href="https://discord.gg/HtzxZktBsq" target="_blank">
- <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" alt="Convite do Discord"></a>
+ <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" height="100%" alt="Convite do Discord"></a>
     </td>
   </tr>
 </table>

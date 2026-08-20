@@ -1,172 +1,174 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:7C5CFF&height=210&section=header&text=Buildo%20Tecnologia&fontSize=46&fontColor=FFFFFF&fontAlignY=34&desc=site%20%C2%B7%20app%20%C2%B7%20automa%C3%A7%C3%A3o&descAlignY=54&descSize=17" width="100%" alt="Buildo Tecnologia">
+
 <div align="center">
 
-<h1>Isaque</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=7C5CFF&center=true&vCenter=true&width=620&height=45&lines=Site+que+carrega+antes+do+cliente+desistir;App+do+MVP+at%C3%A9+a+loja;Automa%C3%A7%C3%A3o+que+devolve+hora+pro+time;Sistema+que+a+opera%C3%A7%C3%A3o+usa+de+verdade" alt="O que a Buildo faz">
 
-<p><strong>Founder &amp; CEO</strong> · <strong>Buildo Tecnologia</strong><br>
-<sub>Estúdio digital · Sites · Aplicativos · Automações &amp; IA</sub></p>
+<br>
 
-<p><em>A gente não entrega código. Entrega o resultado que o código deveria ter trazido.</em></p>
+**Isaque** · Founder &amp; CEO
 
-<p>
-  <img src="https://img.shields.io/badge/Sites-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF" alt="Sites">
-  <img src="https://img.shields.io/badge/Aplicativos-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF" alt="Aplicativos">
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es_%26_IA-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF" alt="Automações e IA">
-  <img src="https://img.shields.io/badge/Sistemas_sob_medida-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF" alt="Sistemas sob medida">
-</p>
-
-<!--
-  CONTATOS — descomente e troque quando tiver os links.
-  Cole o site, WhatsApp, e-mail e LinkedIn nos lugares indicados.
-
-  <a href="https://SEU-SITE.com"><img src="https://img.shields.io/badge/Site-buildo.com.br-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF"></a>
-  <a href="https://wa.me/5511999999999"><img src="https://img.shields.io/badge/Or%C3%A7amento-WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117&color=25D366"></a>
-  <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2"></a>
-  <a href="mailto:contato@buildo.com.br"><img src="https://img.shields.io/badge/E--mail-Falar_com_a_Buildo-0D1117?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117&color=8B8B8B"></a>
--->
+<img src="https://img.shields.io/badge/aceitando%20projetos-7C5CFF?style=flat-square&labelColor=0D1117" alt="Aceitando projetos">
+<img src="https://img.shields.io/badge/resposta%20em%2024h-30363D?style=flat-square&labelColor=0D1117" alt="Resposta em 24h">
+<img src="https://komarev.com/ghpvc/?username=devkrowmys&color=7C5CFF&style=flat-square&label=visitas" alt="Visitas no perfil">
 
 </div>
+
+<!--
+  CONTATOS: descomente e troque quando tiver os links.
+  <a href="https://SEU-SITE.com"><img src="https://img.shields.io/badge/site-buildo.com.br-7C5CFF?style=for-the-badge&labelColor=0D1117"></a>
+  <a href="https://wa.me/5511999999999"><img src="https://img.shields.io/badge/WhatsApp-orcamento-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117"></a>
+  <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"></a>
+-->
 
 ---
 
 ## Sobre
 
-Dirijo a **Buildo Tecnologia**, um estúdio digital que desenha, constrói e opera produtos
-sob medida para empresas que precisam de mais do que "um site bonito".
+Me chamo Isaque e toco a **Buildo Tecnologia**.
 
-Nosso trabalho começa no problema de negócio — não no Figma. Entendemos a operação,
-cortamos o que é manual e devolvemos um produto que sustenta receita: rápido, mensurável
-e pronto para escalar.
+A gente faz site, aplicativo e automação pra empresa. Não é template de R$ 300, e também não é aquele
+sistema que só o dev que escreveu consegue mexer depois.
 
-> **Hoje:** liderando a operação da Buildo, a arquitetura dos produtos e a relação direta com os clientes.
+O tipo de coisa que mais chega aqui é empresa afogada em trabalho manual. Pedido que alguém digita
+duas vezes. Planilha que quatro pessoas editam ao mesmo tempo e ninguém sabe qual versão vale.
+Cliente esperando resposta no WhatsApp às 22h. Tudo isso vira software, e normalmente em poucas semanas.
+
+Se o teu problema é esse, dá pra resolver.
 
 ---
 
-## O que a Buildo entrega
+## O que a gente faz
 
-| Frente | O que resolve |
+| | |
 | :--- | :--- |
-| **Sites & Landing Pages** | Institucional, landing de conversão e e-commerce. Performance real, SEO técnico e design autoral — nada de template. |
-| **Aplicativos** | Web apps, PWAs e mobile. Do MVP validado ao produto em produção, com base para escalar. |
-| **Automações & IA** | Integrações, bots, agentes e fluxos internos que eliminam trabalho repetitivo e devolvem horas ao time. |
-| **Sistemas sob medida** | Painéis administrativos, dashboards, ERPs leves e integrações com APIs e gateways de pagamento. |
-| **Consultoria técnica** | Diagnóstico de stack, arquitetura, performance e plano de evolução para produtos que já existem. |
+| **Site e landing page** | Institucional, página de conversão e loja. Eu me importo com PageSpeed no verde porque site lento queima tráfego pago, e tráfego pago é caro. |
+| **Aplicativo** | Web, PWA e mobile. Começo pelo MVP, coloco no ar rápido, e a evolução vem em cima de uso real e não de achismo. |
+| **Automação e IA** | n8n, integração de API e agente com LLM. Se alguém do time repete a mesma tarefa toda segunda, aquilo ali é robô. |
+| **Sistema sob medida** | Painel, dashboard, ERP enxuto, integração com gateway de pagamento. É aqui que a operação para de depender de planilha. |
+| **Consultoria** | Produto que já existe e travou. Eu olho stack, arquitetura e performance, e digo o que dá pra salvar e o que é melhor reescrever. |
 
 ---
 
-## Como conduzimos um projeto
+## Como funciona
 
-```
-01 · Diagnóstico        →  Entender a operação, os gargalos e a métrica que precisa mudar.
-02 · Escopo & proposta  →  Entregáveis, prazo e investimento definidos antes da primeira linha de código.
-03 · Design & build     →  Sprints curtas, ambiente de homologação e validação contínua com o cliente.
-04 · Entrega & evolução →  Deploy, monitoramento, treinamento do time e ciclo de melhoria.
+```mermaid
+flowchart LR
+    A["Diagnóstico"] --> B["Escopo fechado"]
+    B --> C["Build em sprint"]
+    C --> D["Deploy"]
+    D --> E["Evolução"]
+
+    style A fill:#161B22,stroke:#7C5CFF,stroke-width:2px,color:#E6EDF3
+    style B fill:#161B22,stroke:#7C5CFF,stroke-width:2px,color:#E6EDF3
+    style C fill:#161B22,stroke:#7C5CFF,stroke-width:2px,color:#E6EDF3
+    style D fill:#161B22,stroke:#7C5CFF,stroke-width:2px,color:#E6EDF3
+    style E fill:#7C5CFF,stroke:#7C5CFF,stroke-width:2px,color:#FFFFFF
 ```
 
-Sem escopo aberto. Sem prazo elástico. Sem entrega que morre no dia seguinte.
+Primeiro eu entendo o que está travando a operação. Depois mando escopo fechado, com prazo e preço,
+porque "a gente vê depois" é como projeto morre. O desenvolvimento roda em sprint curta e você
+acompanha por um link de homologação, sem precisar esperar o fim pra ver alguma coisa.
+Quando entra no ar, tem treinamento do time e suporte pra continuar evoluindo.
 
 ---
 
-## Stack de trabalho
+## Stack
 
 <div align="center">
 
-**Front-end**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,nodejs,python,php,laravel&theme=dark" alt="Front-end e back-end">
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,flutter,figma,docker,vercel&theme=dark" alt="Dados, mobile e infra">
+<br>
+<img src="https://skillicons.dev/icons?i=cloudflare,git,github,linux,ai&theme=dark" alt="Infra e IA">
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
-
-**Back-end & dados**
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
-
-**Mobile & produto**
-
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
-
-**Infra, automação & IA**
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020)
-![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71)
-![LLMs](https://img.shields.io/badge/LLMs_e_Agentes-0D1117?style=flat-square&logo=openai&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=635BFF)
+<sub>Fora dos ícones: n8n para automação, Stripe e gateways nacionais, e agentes com LLM.</sub>
 
 </div>
 
 ---
 
-## Projetos em destaque
+## Projetos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎯 MoveBet
-Plataforma de apostas construída em **React 19 + TypeScript + Tailwind v4**.
-Navegação com fonte única de verdade, carrosséis com snap nativo,
-estado persistente e design system próprio.
+Plataforma de apostas em React 19, TypeScript e Tailwind v4.
+Navegação com fonte única de verdade, carrossel com snap nativo,
+estado que sobrevive ao refresh e design system próprio.
 
-`React` `TypeScript` `Tailwind` `Vite`
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6">
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8">
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Sistemas sob medida
-Painéis e integrações que conectam o que a empresa já usa —
-CRM, financeiro e atendimento — em um fluxo só.
+### ⚙️ Automação de operação
+Fluxo que pega o pedido no WhatsApp, joga no CRM
+e avisa o financeiro. Ninguém digita nada duas vezes.
 
-`Node.js` `PostgreSQL` `APIs`
+<img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71">
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
+<img src="https://img.shields.io/badge/APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688">
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Automações
-Rotinas que eliminam trabalho manual repetitivo e
-devolvem horas de operação ao time todo mês.
+### 📊 Painel sob medida
+Dashboard que substituiu a planilha compartilhada.
+Permissão por usuário, histórico e número batendo com o financeiro.
 
-`n8n` `Node.js` `LLMs`
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1">
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Aplicativos
-Do MVP validado à publicação nas lojas,
-com base pronta para escalar.
+### 📱 App mobile
+Do MVP validado até a publicação nas lojas,
+já com base pronta pra aguentar crescimento.
 
-`Flutter` `React Native` `Firebase`
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B">
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28">
 
 </td>
 </tr>
 </table>
 
-<!-- Quando tiver cases reais com número (ex.: "reduziu 70% o tempo de fechamento"), troque os 3 cards genéricos acima. Case com métrica vende muito mais que descrição de stack. -->
+<!-- Troque os 3 ultimos por case real com numero assim que puder. "Cortou 70% do tempo de fechamento" vale mais que qualquer descricao de stack. -->
 
 ---
 
-## Vamos conversar
-
-A Buildo aceita projetos de **sites, aplicativos, automações e sistemas sob medida** —
-e parcerias de longo prazo com times que precisam de um braço técnico de verdade.
+## GitHub
 
 <div align="center">
 
-**[Falar com a Buildo](https://github.com/devkrowmys)**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devkrowmys&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=7C5CFF&text_color=8B949E&icon_color=7C5CFF" alt="Estatisticas">
+<img height="165" src="https://streak-stats.demolab.com?user=devkrowmys&hide_border=true&background=0D1117&stroke=21262D&ring=7C5CFF&fire=7C5CFF&currStreakLabel=7C5CFF&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Sequencia de contribuicoes">
 
-<sub>Respondemos em até 24h em dias úteis.</sub>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&bg_color=0D1117&color=E6EDF3&line=7C5CFF&point=FFFFFF&area=true&area_color=7C5CFF&hide_border=true&custom_title=Atividade%20recente" alt="Grafico de atividade">
+
+<img width="98%" src="https://raw.githubusercontent.com/devkrowmys/devkrowmys/output/snake.svg" alt="Cobrinha comendo as contribuicoes">
 
 </div>
+
+---
+
+## Chamar a Buildo
+
+Pego projeto de site, app, automação e sistema sob medida. Também pego parceria longa
+com time que precisa de um braço técnico fixo em vez de freela novo a cada trimestre.
+
+<div align="center">
+
+**[Falar comigo](https://github.com/devkrowmys)**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:4C1D95,100:0D1117&height=110&section=footer" width="100%" alt="">

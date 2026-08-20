@@ -81,7 +81,7 @@ Quando entra no ar, tem treinamento do time e suporte pra continuar evoluindo.
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,flutter,figma,docker,vercel&theme=dark" alt="Dados, mobile e infra">
 <br>
-<img src="https://skillicons.dev/icons?i=cloudflare,git,github,linux,ai&theme=dark" alt="Infra e IA">
+<img src="https://skillicons.dev/icons?i=cloudflare,git,github,linux,bash&theme=dark" alt="Infra e ferramentas">
 
 <sub>Fora dos ícones: n8n para automação, Stripe e gateways nacionais, e agentes com LLM.</sub>
 
@@ -148,9 +148,6 @@ já com base pronta pra aguentar crescimento.
 ## GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devkrowmys&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=7C5CFF&text_color=8B949E&icon_color=7C5CFF" alt="Estatisticas">
-<img height="165" src="https://streak-stats.demolab.com?user=devkrowmys&hide_border=true&background=0D1117&stroke=21262D&ring=7C5CFF&fire=7C5CFF&currStreakLabel=7C5CFF&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Sequencia de contribuicoes">
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&bg_color=0D1117&color=E6EDF3&line=7C5CFF&point=FFFFFF&area=true&area_color=7C5CFF&hide_border=true&custom_title=Atividade%20recente" alt="Grafico de atividade">
 

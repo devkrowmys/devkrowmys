@@ -1,208 +1,172 @@
-<img src="https://i.imgur.com/DOZQXi3.png"/>
+<div align="center">
 
+<h1>Isaque</h1>
 
-<!-- Introdução com imagem e descrição -->
-<img align="left" width="150" height="150" alt="DK" src="https://i.imgur.com/xjJMlen.png"/>
+<p><strong>Founder &amp; CEO</strong> · <strong>Buildo Tecnologia</strong><br>
+<sub>Estúdio digital · Sites · Aplicativos · Automações &amp; IA</sub></p>
 
-<h3>
-  E aí maninho, eu sou o <a href="https://github.com/devkrowmys">DevKrowmys</a>
-  <img width="18px" height="18" src="https://i.imgur.com/DloFx9W.gif"/>
-</h3>
+<p><em>A gente não entrega código. Entrega o resultado que o código deveria ter trazido.</em></p>
 
 <p>
-  Sou um desenvolvedor fullstack com experiência em diversas linguagens de programação e frameworks, como JavaScript, React, Node.js, PHP, Laravel, Python, Flutter, C++, entre outros. Se quiser trocar uma ideia, chama no Discord <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" />
+  <img src="https://img.shields.io/badge/Sites-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF" alt="Sites">
+  <img src="https://img.shields.io/badge/Aplicativos-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF" alt="Aplicativos">
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es_%26_IA-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF" alt="Automações e IA">
+  <img src="https://img.shields.io/badge/Sistemas_sob_medida-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF" alt="Sistemas sob medida">
 </p>
 
-<details>
-  <summary><b>:gear: &nbsp;Sobre Mim</b></summary>
-  <br/>
- <b>👨‍💻 Tecnologias que eu sei:</b><br/><br/>
-    <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> | <code>Python</code> | <code>C++</code> | <code>Arduino</code><br/><br/>
-<p>
-    <b>📚 Tecnologias que estou estudando:</b><br/><br/>
-    <code>Laravel</code> | <code>TypeScript</code> | <code>PHP</code> | <code>Lua</code> | <code>C#</code> | <code>Flutter</code><br/><br/>
-<p>
-    <b>🖥️ Ferramentas que utilizo:</b><br/><br/>
-    <code>Git</code> | <code>GitHub</code> | <code>Android Studio</code> | <code>Visual Studio Code</code> | <code>eclipse</code> | <code>Atom</code> | <code>Sublime Text</code> | <code>Jira</code><br/><br/>
-<p>
-    <b>🌐 Bancos de Dados:</b><br/><br/>
-    <code>MySQL</code> | <code>mongoDB</code> | <code>SQLite</code> | <code>Firebase</code><br/><br/>
-<p>
-    <b>🎮 Tecnologias de Desenvolvimento de Jogos:</b><br/><br/>
-    <code>Unity</code> | <code>Unreal Engine</code><br/><br/>
-<p>
-    <b>🔒 Segurança e Sistemas Operacionais:</b><br/><br/>
-    <code>Kali Linux</code><br/><br/>
-<p>
-    <b>💡 Objetivos e interesses:</b><br/><br/>
-    Explorando e aprendendo sobre novas tecnologias, e sempre em busca de melhorar minhas habilidades em desenvolvimento web, jogos e IA. 📈<br/><br/></p>
-</details>
+<!--
+  CONTATOS — descomente e troque quando tiver os links.
+  Cole o site, WhatsApp, e-mail e LinkedIn nos lugares indicados.
 
+  <a href="https://SEU-SITE.com"><img src="https://img.shields.io/badge/Site-buildo.com.br-0D1117?style=for-the-badge&labelColor=0D1117&color=6D4AFF"></a>
+  <a href="https://wa.me/5511999999999"><img src="https://img.shields.io/badge/Or%C3%A7amento-WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117&color=25D366"></a>
+  <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2"></a>
+  <a href="mailto:contato@buildo.com.br"><img src="https://img.shields.io/badge/E--mail-Falar_com_a_Buildo-0D1117?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117&color=8B8B8B"></a>
+-->
 
-
-<!-- Saudação e convite -->
-<div align="center"
-><table>
-  <tr>
-    <td>
-<h3>Que bom ver você aqui! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" style="vertical-align: middle; width: 1em; height: 1em;" /></h3>
-    </td>
-    <td>
-     <a href="https://discord.gg/HtzxZktBsq" target="_blank">
- <img src="https://invidget.switchblade.xyz/HtzxZktBsq?theme=dark&language=pt" height="100%" alt="Convite do Discord"></a>
-    </td>
-  </tr>
-</table>
 </div>
 
-  
+---
 
+## Sobre
 
+Dirijo a **Buildo Tecnologia**, um estúdio digital que desenha, constrói e opera produtos
+sob medida para empresas que precisam de mais do que "um site bonito".
 
+Nosso trabalho começa no problema de negócio — não no Figma. Entendemos a operação,
+cortamos o que é manual e devolvemos um produto que sustenta receita: rápido, mensurável
+e pronto para escalar.
 
+> **Hoje:** liderando a operação da Buildo, a arquitetura dos produtos e a relação direta com os clientes.
 
+---
 
-<hr>
+## O que a Buildo entrega
 
-<!-- Imagem decorativa -->
-<img src="https://i.imgur.com/R6FlzQQ.png"/>
+| Frente | O que resolve |
+| :--- | :--- |
+| **Sites & Landing Pages** | Institucional, landing de conversão e e-commerce. Performance real, SEO técnico e design autoral — nada de template. |
+| **Aplicativos** | Web apps, PWAs e mobile. Do MVP validado ao produto em produção, com base para escalar. |
+| **Automações & IA** | Integrações, bots, agentes e fluxos internos que eliminam trabalho repetitivo e devolvem horas ao time. |
+| **Sistemas sob medida** | Painéis administrativos, dashboards, ERPs leves e integrações com APIs e gateways de pagamento. |
+| **Consultoria técnica** | Diagnóstico de stack, arquitetura, performance e plano de evolução para produtos que já existem. |
+
+---
+
+## Como conduzimos um projeto
+
+```
+01 · Diagnóstico        →  Entender a operação, os gargalos e a métrica que precisa mudar.
+02 · Escopo & proposta  →  Entregáveis, prazo e investimento definidos antes da primeira linha de código.
+03 · Design & build     →  Sprints curtas, ambiente de homologação e validação contínua com o cliente.
+04 · Entrega & evolução →  Deploy, monitoramento, treinamento do time e ciclo de melhoria.
+```
+
+Sem escopo aberto. Sem prazo elástico. Sem entrega que morre no dia seguinte.
+
+---
+
+## Stack de trabalho
 
 <div align="center">
-	  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Development Tools</h3>
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" alt="Atom" title="Atom"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
-			<td><code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code></td>
-			<td><code><img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="Lua" title="Lua"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" alt="Unreal Engine" title="Unreal Engine"/></code></td>
-			<td><code><img width="50" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" alt="Kali Linux" title="Kali Linux"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
-		</tr>
-	</table>
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
+
+**Back-end & dados**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E)
+
+**Mobile & produto**
+
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+
+**Infra, automação & IA**
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71)
+![LLMs](https://img.shields.io/badge/LLMs_e_Agentes-0D1117?style=flat-square&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=635BFF)
+
 </div>
 
+---
 
+## Projetos em destaque
 
-
-<!-- Seção do perfil de troféus do GitHub -->
-<div align="center">
-  <h3>🏆 GitHub Profile</h3><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=devkrowmys&column=8&theme=radical&no-frame=true&no-bg=true"/>
-  </a>
-</div>
-
-<h3 align="center">📈 GitHub Activity Graph:</h3>
 <table>
 <tr>
-  <td align="center">  <img src="https://github-readme-stats.vercel.app/api?username=devkrowmys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&border_radius=25&order=1&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub" height="100%" alt="stats graph" /> <br>
- <br>
- <br>
-    <img src="https://streak-stats.demolab.com?user=devkrowmys&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=25&order=3" height="100%" alt="streak graph"  />
-<br></td>
-  <td rowspan="2" align="center">
-  <!-- Modo claro -->
-  <a href="https://github.com/devkrowmys#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&border_radius=25&locale=pt-br#gh-light-mode-only" 
-    alt="Linguagens Mais Usadas - Modo Claro" height="100%"/>
-  </a>
+<td width="50%" valign="top">
 
-  <!-- Modo escuro -->
-  <a href="https://github.com/devkrowmys#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrowmys&theme=radical&langs_count=8&hide_border=true&locale=pt-br#gh-dark-mode-only" 
-    alt="Linguagens Mais Usadas - Modo Escuro" height="100%"/>
-  </a>
+### 🎯 MoveBet
+Plataforma de apostas construída em **React 19 + TypeScript + Tailwind v4**.
+Navegação com fonte única de verdade, carrosséis com snap nativo,
+estado persistente e design system próprio.
+
+`React` `TypeScript` `Tailwind` `Vite`
 
 </td>
+<td width="50%" valign="top">
 
+### 🧩 Sistemas sob medida
+Painéis e integrações que conectam o que a empresa já usa —
+CRM, financeiro e atendimento — em um fluxo só.
 
+`Node.js` `PostgreSQL` `APIs`
 
-    Me segue ai no github rapaziada
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automações
+Rotinas que eliminam trabalho manual repetitivo e
+devolvem horas de operação ao time todo mês.
+
+`n8n` `Node.js` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Aplicativos
+Do MVP validado à publicação nas lojas,
+com base pronta para escalar.
+
+`Flutter` `React Native` `Firebase`
+
+</td>
+</tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<hr>
-<!--  Seção GitHub stats graph -->
+<!-- Quando tiver cases reais com número (ex.: "reduziu 70% o tempo de fechamento"), troque os 3 cards genéricos acima. Case com métrica vende muito mais que descrição de stack. -->
+
+---
+
+## Vamos conversar
+
+A Buildo aceita projetos de **sites, aplicativos, automações e sistemas sob medida** —
+e parcerias de longo prazo com times que precisam de um braço técnico de verdade.
+
 <div align="center">
-<h3>📈 GitHub Activity Graph:</h3>
-<a href="https://github.com/devkrowmys">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkrowmys&radius=20&theme=redical&area=true&order=5&bg_color=141321&color=FE428E&hide_title=false&hide_border=true&custom_title=Meu%20Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20(DevKrowmys)&point=FE428E" height="285" alt="activity-graph graph"  />
-</a>
-</div>  
 
+**[Falar com a Buildo](https://github.com/devkrowmys)**
 
+<sub>Respondemos em até 24h em dias úteis.</sub>
 
-
-<hr>
-
-<!-- Seção de doações -->
-<div align="center">
-  <h3>🤝 Seu apoio é fundamental!</h3>
-  <p>Se meu trabalho te ajudou, considere fazer uma doação! 💖</p>
-
-  <a href="" target="_blank"><img src="https://i.imgur.com/kPUpaL4.png" alt="Ajude com um donate" height="60px" width="217px"></a>
-</div>
-
-
-
-#
-
-<!-- Agradecimento final -->
-<div align="center">
-  <h3>Agradeço de ❤️ por ler até aqui!</h3>
 </div>
